@@ -1,0 +1,5 @@
+.gitignore
+# Ignora i file generati durante la compilazione
+node_modules/
+*.log
+.env
